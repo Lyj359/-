@@ -6,7 +6,7 @@
 
 2.分子平均动能:`$\bar{\varepsilon}_k = \frac{1}{2}m\bar{v^2}$`<br><br>
 3.理想气体温标：<br>
-- `$T_V(p) = 273.16 \lim\limits_{p_0\rightarrow0} \displaystyle\frac{p}{p_0}$`
+- T_V(p) = 273.16 \lim\limits_{p_0\rightarrow0} \displaystyle\frac{p}{p_0}
 - `$T_p(V) = 273.16 \lim \limits_{p_0 \rightarrow 0} \displaystyle\frac{V}{V_0} $`
 
 4.描述物质状态变化的物理量:<br>
