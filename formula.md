@@ -1,8 +1,4 @@
-<font size = 6>
 
-[toc]
-</font>
-<font size = 4>
 
 # 第一章：
 1.分子间相互作用势：`$\varphi(r) = \displaystyle\frac{\sigma} {r^s} - \frac{\mu} {r^t}$`<br> 
@@ -66,4 +62,3 @@
 1.气体分子的碰撞：
 
 
-</font>
